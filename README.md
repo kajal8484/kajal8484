@@ -2,6 +2,8 @@
 - 👀 I’m interested in java, spring boot,aws
 - 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on open sources in java
+- 📫 How to reach me kajaltiwary9144@gmail.com
+
 
 
 <!---
